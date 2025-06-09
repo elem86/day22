@@ -16,14 +16,14 @@ Today’s project was all about identifying inactive customers who haven’t int
   - Built a SQL view (churn_candidates) to isolate users at risk.
 
   - Segmented results by region and plan type to uncover patterns in churn.
-  - 
+
 
 📊 Key Insights:
 
   - Certain regions and lower-tier plans show higher churn risk.
 
   - Many customers haven't interacted in over 60 days — prime targets for re-engagement.
-  - 
+
 
 💡 This kind of SQL-based churn detection can help marketing teams focus their efforts on retaining valuable customers.
 
