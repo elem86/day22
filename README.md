@@ -28,6 +28,6 @@ Today’s project was all about identifying inactive customers who haven’t int
 💡 This kind of SQL-based churn detection can help marketing teams focus their efforts on retaining valuable customers.
 
 
-#SQL #DataAnalytics #CustomerChurn #ChurnAnalysis #OneProjectADay #DataProjects #JobSearch #DataScientist #Analytics #SQLite #CustomerRetention
+#SQL #DataAnalytics #CustomerChurn #ChurnAnalysis #OneProjectADay #JobSearch #DataScientist #Analytics #SQLite #CustomerRetention #DataAnalytics #OpenToWork #Day22
 
 ![image](https://github.com/user-attachments/assets/c061e855-1e20-40cd-8f5b-87165b5ab40b)
