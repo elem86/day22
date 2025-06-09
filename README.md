@@ -25,8 +25,9 @@ Today’s project was all about identifying inactive customers who haven’t int
   - Many customers haven't interacted in over 60 days — prime targets for re-engagement.
 
 
-💡 This kind of SQL-based churn detection can help marketing teams focus their efforts on retaining valuable customers.
+💡 This kind of SQL-based churn detection can help marketing teams focus on retaining valuable customers.
 
+📂 Files on GitHub: 🔗 github.com/elem86/day22
 
 #SQL #DataAnalytics #CustomerChurn #ChurnAnalysis #OneProjectADay #JobSearch #DataScientist #Analytics #SQLite #CustomerRetention #DataAnalytics #OpenToWork #Day22
 
